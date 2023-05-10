@@ -1,0 +1,47 @@
+h1 {
+    font-weight: bold;
+    text-align: center; 
+    background-color: gainsboro;
+    border-radius: 3px 3px 0 0;
+    height: 60px;
+    width: auto;
+    padding: 0px;
+    padding-top: 20px;
+    margin: auto;
+    margin-right: 10px;
+    
+}
+
+img {
+    width: 300px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.container {
+    margin: auto;
+    width: 800px;
+    background-color: rgb(181, 180, 198);
+    height: 540px;
+}
+
+.flutuante {
+    float: left;
+    width: 400px;
+    height: 500px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: aliceblue;
+    margin: 10px 10px 10px 20px
+    
+}
+
+p {
+    font-size: 18px;
+    margin-left: 500px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+    
